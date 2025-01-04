@@ -1,4 +1,0 @@
-C:/Users/aayus/Development/codeforces/Contests/hello-2025/cmake-build-debug/CMakeFiles/mexTable.dir
-C:/Users/aayus/Development/codeforces/Contests/hello-2025/cmake-build-debug/CMakeFiles/gorillaAndTheExam.dir
-C:/Users/aayus/Development/codeforces/Contests/hello-2025/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/aayus/Development/codeforces/Contests/hello-2025/cmake-build-debug/CMakeFiles/rebuild_cache.dir
